@@ -1,7 +1,7 @@
 #$ TITLE: Default 4.3 Modes for Israel
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
-#$ STATUS: OFFICIAL
+#$ STATUS: PERSONAL
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: Israel Simmons / IsraSimm
 #$ DESCRIPTION: Setup modes how Israel likes it!
